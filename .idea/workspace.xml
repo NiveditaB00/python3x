@@ -1,28 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d98821e1-0f99-4ba6-ac0a-6ac43957df7b" name="Changes" comment="" />
+    <list default="true" id="d98821e1-0f99-4ba6-ac0a-6ac43957df7b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_03Jun24/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_03Jun24/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_03Jun24/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_03Jun24/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab0013.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab0013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab024.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NiveditaB00"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NiveditaB00/python3x.git",
+    "accountId": "f492b333-1c04-4479-84be-9a907a86c3fa"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2i0S2GnzUMBuvq1tXgu63h4Y5zb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -39,8 +130,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718625794142</updated>
-      <workItem from="1718625798910" duration="5000" />
+      <workItem from="1718625798910" duration="6722000" />
+      <workItem from="1718642778659" duration="12000" />
+      <workItem from="1718692384396" duration="12175000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python3x$Lab012.coverage" NAME="Lab012 Coverage Results" MODIFIED="1718641916336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_05Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab027.coverage" NAME="Lab027 Coverage Results" MODIFIED="1718633534997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab0029.coverage" NAME="Lab0029 Coverage Results" MODIFIED="1718633708604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab021.coverage" NAME="Lab021 Coverage Results" MODIFIED="1718723459638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_07Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab030.coverage" NAME="Lab030 Coverage Results" MODIFIED="1718633757864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab033.coverage" NAME="Lab033 Coverage Results" MODIFIED="1718640820792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab001.coverage" NAME="Lab001 Coverage Results" MODIFIED="1718631018549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_03Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab015.coverage" NAME="Lab015 Coverage Results" MODIFIED="1718642445774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_07Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab018.coverage" NAME="Lab018 Coverage Results" MODIFIED="1718722128934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_07Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab024.coverage" NAME="Lab024 Coverage Results" MODIFIED="1718712052503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_07Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab006.coverage" NAME="Lab006 Coverage Results" MODIFIED="1718631613738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_05Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab032.coverage" NAME="Lab032 Coverage Results" MODIFIED="1718640768564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab023.coverage" NAME="Lab023 Coverage Results" MODIFIED="1718642709956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_07Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab017.coverage" NAME="Lab017 Coverage Results" MODIFIED="1718642586402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_07Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab003.coverage" NAME="Lab003 Coverage Results" MODIFIED="1718696086719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_05Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab026.coverage" NAME="Lab026 Coverage Results" MODIFIED="1718633393045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab008.coverage" NAME="Lab008 Coverage Results" MODIFIED="1718631936116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_05Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab005.coverage" NAME="Lab005 Coverage Results" MODIFIED="1718710298274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_05Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab002.coverage" NAME="Lab002 Coverage Results" MODIFIED="1718631079134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_03Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab031.coverage" NAME="Lab031 Coverage Results" MODIFIED="1718640736327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab034.coverage" NAME="Lab034 Coverage Results" MODIFIED="1718640858419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab028.coverage" NAME="Lab028 Coverage Results" MODIFIED="1718633599854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab020.coverage" NAME="Lab020 Coverage Results" MODIFIED="1718642654526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_07Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab011.coverage" NAME="Lab011 Coverage Results" MODIFIED="1718641887111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_05Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab010.coverage" NAME="Lab010 Coverage Results" MODIFIED="1718641852259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_05Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab013.coverage" NAME="Lab013 Coverage Results" MODIFIED="1718641986185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_05Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab019.coverage" NAME="Lab019 Coverage Results" MODIFIED="1718642625518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_07Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab016.coverage" NAME="Lab016 Coverage Results" MODIFIED="1718642480465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_07Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab025.coverage" NAME="Lab025 Coverage Results" MODIFIED="1718633284295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab004.coverage" NAME="Lab004 Coverage Results" MODIFIED="1718709836186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_05Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab007.coverage" NAME="Lab007 Coverage Results" MODIFIED="1718631829031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_05Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab0013.coverage" NAME="Lab0013 Coverage Results" MODIFIED="1718642132675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_05Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab022.coverage" NAME="Lab022 Coverage Results" MODIFIED="1718642687088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_07Jun24" />
   </component>
 </project>
