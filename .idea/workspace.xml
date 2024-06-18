@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d98821e1-0f99-4ba6-ac0a-6ac43957df7b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_03Jun24/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_03Jun24/Lab001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_03Jun24/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_03Jun24/Lab002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab0013.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab0013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_05Jun24/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_05Jun24/Lab013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab016.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_07Jun24/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_07Jun24/Lab024.py" afterDir="false" />
-    </list>
+    <list default="true" id="d98821e1-0f99-4ba6-ac0a-6ac43957df7b" name="Changes" comment="With Task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,12 +106,25 @@
       <updated>1718625794142</updated>
       <workItem from="1718625798910" duration="6722000" />
       <workItem from="1718642778659" duration="12000" />
-      <workItem from="1718692384396" duration="12175000" />
+      <workItem from="1718692384396" duration="12518000" />
     </task>
+    <task id="LOCAL-00001" summary="With Task">
+      <option name="closed" value="true" />
+      <created>1718728515561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718728515562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="With Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="With Task" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python3x$Lab012.coverage" NAME="Lab012 Coverage Results" MODIFIED="1718641916336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_05Jun24" />
