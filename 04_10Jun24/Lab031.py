@@ -1,10 +1,7 @@
-# Ternary operator
-s_marks = 95
-a_marks = 87
+n1 = 10
+n2 = 20
+result1 = (n1 != n2)# 10 not equal 20 -> True
+print(result1)
 
-#print("S is winner" if s_marks >= a_marks else "A is winner")
-
-if s_marks >= a_marks:
-    print("S is winner")
-else:
-    print("A is winner")
+result2 = (n1 == n2)
+print(result2)

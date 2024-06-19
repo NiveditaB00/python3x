@@ -1,10 +1,6 @@
-# math
-import  math
-a = math.pow(2, 3)
-pi = math.pi
-print(a)
-print(pi)
+# Program - Calculate the area of a circle
+# input -> radius
+# output -> area
+import math
 
-
-result = math.sin(90)
-print(result)
+print(math.pi*(float(input("Ebter the radius\n"))**2))

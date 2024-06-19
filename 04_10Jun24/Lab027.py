@@ -1,33 +1,33 @@
 is_married = True
-is_unmarried = False
+is_pramod_married = False
 
-#assignement operator
-# - assign the value from right to left
+# Decimal Number System
+age = 65
 
-name = "Nivedita"
+# Binary 0, 1
+number_ten = 0b1010 # -> decimal = 10
 
-# == compare operator
-v1 = (1 == True)
-v2 = (0 == False)
-#print(v1)
-#print(v2)
+# 10 -> 1010
 
-n1 = +54
-n2 = -1
-#print(n1)
-#print(n2)
-n3 = n1 + n2
-#print(n3)
+# Oct
+c = 0o130
 
-n4 = True
-#print(n4)
-#print(not n4)
+# Hex
+d = 0x12c
 
-n5 = 4
-n6 = 5
-n7 = False
-print(n5 is n6)
 
-my_list1  = [1, 2, 3]
-my_list2  = [1, 2, 3]
-print(my_list1 is my_list2)
+# String
+name = "Pramod"
+
+name2 = 'Pramod'
+
+mul_string_line = """ This is Multi
+line strng we can have
+lines which you can type
+anything
+like story
+"""
+
+# Boolean Liters
+x = True
+y = False
