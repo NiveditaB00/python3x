@@ -1,3 +1,4 @@
+
 class Calc:
 
     def __init__(self, a, b):
@@ -17,7 +18,4 @@ class Calc:
         return self.a / self.b
 
 
-
-object_ref = Calc(3, 4)
-output = object_ref.sum()
-print(output)
+print(Calc(3, 4).sum())

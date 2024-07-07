@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d98821e1-0f99-4ba6-ac0a-6ac43957df7b" name="Changes" comment="All files">
-      <change afterPath="$PROJECT_DIR$/09_21Jun24/Lab101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_24Jun24/Lab103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_24Jun24/Lab104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_24Jun24/Lab105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_24Jun24/Lab106.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_24Jun24/Lab107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_24Jun24/Lab108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_24Jun24/Lab109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_24Jun24/Lab110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun24/Lab112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun24/Lab113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun24/Lab114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun24/Lab115.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun24/Lab116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun24/Lab117.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun24/Lab118.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun24/Lab119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_26Jun24/Lab120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_26Jun24/Lab121.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_21Jun24/Lab100.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_21Jun24/Lab100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_26Jun24/Lab119.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_26Jun24/Lab119.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +182,7 @@
       <workItem from="1719120993820" duration="2460000" />
       <workItem from="1719291825036" duration="4924000" />
       <workItem from="1719382649065" duration="4078000" />
-      <workItem from="1720367477805" duration="374000" />
+      <workItem from="1720367477805" duration="749000" />
     </task>
     <task id="LOCAL-00001" summary="With Task">
       <option name="closed" value="true" />
@@ -239,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719121568147</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="All files">
+      <option name="closed" value="true" />
+      <created>1720367966151</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720367966151</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
