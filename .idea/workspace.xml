@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d98821e1-0f99-4ba6-ac0a-6ac43957df7b" name="Changes" comment="All files">
-      <change afterPath="$PROJECT_DIR$/11_26Jun24/Lab120.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun24/Lab121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/22_Jul_2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/22_Jul_2024/test_lab180.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/22_Jul_2024/test_lab181.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/22_Jul_2024/test_lab182.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/22_Jul_2024/test_lab183.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_26Jun24/Lab119.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_26Jun24/Lab119.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_lab180.test_addition.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab0013.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
@@ -132,6 +135,7 @@
     &quot;Python.Lab110.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab114.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab115.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab121.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab61.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab76.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab82.executor&quot;: &quot;Run&quot;,
@@ -143,11 +147,13 @@
     &quot;Python.Task02.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/t661/PycharmProjects/python3x&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -155,6 +161,101 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\t661\PycharmProjects\python3x\04_10Jun24" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_lab180.test_addition">
+    <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python3x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_03Jun24" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_03Jun24/Lab001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python3x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_03Jun24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_03Jun24/Lab002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python3x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_05Jun24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_05Jun24/Lab003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab180.test_addition" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="python3x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API/22_Jul_2024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab180.test_addition&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_lab180.test_addition" />
+        <item itemvalue="Python.Lab003" />
+        <item itemvalue="Python.Lab001" />
+        <item itemvalue="Python.Lab002" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -182,7 +283,15 @@
       <workItem from="1719120993820" duration="2460000" />
       <workItem from="1719291825036" duration="4924000" />
       <workItem from="1719382649065" duration="4078000" />
-      <workItem from="1720367477805" duration="749000" />
+      <workItem from="1720367477805" duration="1456000" />
+      <workItem from="1721719304352" duration="14000" />
+      <workItem from="1721719415860" duration="1000" />
+      <workItem from="1721719700893" duration="1000" />
+      <workItem from="1721720167259" duration="97000" />
+      <workItem from="1721720293276" duration="173000" />
+      <workItem from="1721720598864" duration="39000" />
+      <workItem from="1721743690456" duration="7000" />
+      <workItem from="1721743749632" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="With Task">
       <option name="closed" value="true" />
@@ -232,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720367966151</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="All files">
+      <option name="closed" value="true" />
+      <created>1720368273777</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720368273777</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +376,7 @@
     <SUITE FILE_PATH="coverage/python3x$Lab032.coverage" NAME="Lab032 Coverage Results" MODIFIED="1718640768564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Jun24" />
     <SUITE FILE_PATH="coverage/python3x$Lab096.coverage" NAME="Lab096 Coverage Results" MODIFIED="1718968652599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_21Jun24" />
     <SUITE FILE_PATH="coverage/python3x$Lab023.coverage" NAME="Lab023 Coverage Results" MODIFIED="1718642709956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_07Jun24" />
+    <SUITE FILE_PATH="coverage/python3x$Lab121.coverage" NAME="Lab121 Coverage Results" MODIFIED="1720368239359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_26Jun24" />
     <SUITE FILE_PATH="coverage/python3x$Task0_2.coverage" NAME="Task0.2 Coverage Results" MODIFIED="1718876607874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_12Jun24" />
     <SUITE FILE_PATH="coverage/python3x$Lab017.coverage" NAME="Lab017 Coverage Results" MODIFIED="1718642586402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_07Jun24" />
     <SUITE FILE_PATH="coverage/python3x$Lab115.coverage" NAME="Lab115 Coverage Results" MODIFIED="1719388437071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_26Jun24" />
